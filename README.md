@@ -17,3 +17,5 @@ git status
 git add -A *
 git commit -m"your message"
 git push origin main
+
+When you open the project open the FirebaseAnthonyR_API25 folder
