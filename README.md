@@ -17,3 +17,15 @@ git status
 git add -A *
 git commit -m"your message"
 git push origin main
+
+
+If you're interested downloading this code you can by:
+
+If you don't have it install git bash:
+https://git-scm.com/downloads
+
+run it on your machine and run the command:
+
+git clone https://github.com/Anthony36/FirebaseWeek4.git
+
+it will produce a folder on your machine called FirebaseWeek4
