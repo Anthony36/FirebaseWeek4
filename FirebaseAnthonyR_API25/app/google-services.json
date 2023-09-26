@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "895787762661",
+    "firebase_url": "https://fir-anthonyr-default-rtdb.firebaseio.com",
+    "project_id": "fir-anthonyr",
+    "storage_bucket": "fir-anthonyr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895787762661:android:6710e45be846c82cfba50c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseanthonyr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZoQ5MR1UHP2UsbVhSVhp6gUEzibO_2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895787762661:android:3a303896dec286eafba50c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseanthonyr_api25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZoQ5MR1UHP2UsbVhSVhp6gUEzibO_2nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
